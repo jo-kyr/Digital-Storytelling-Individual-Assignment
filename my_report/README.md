@@ -50,6 +50,24 @@ For the Creative Challenge, our objective was to create a short animation with a
 
 # 2nd Deliverable
 
+### Unit 5: Cinematography
+In Unit 5 we learned more extensively how to use Unity's Main Camera, in combination with Cinemachine, in order to create multi-camera shots. After following the tutorial to get a grasp of the technique, I created my own cameras and shots. I blended some together, and for other I tried adding some visual effects.
+
+![screen (1)](https://user-images.githubusercontent.com/97399069/236872670-95932b7f-7555-46d6-a89c-5f9ee2cdfe35.png)
+![screen (2)](https://user-images.githubusercontent.com/97399069/236872683-64966722-1786-41b0-a050-62f914843c73.png)
+![screen (4)](https://user-images.githubusercontent.com/97399069/236872696-bcde02d7-5346-426c-9ca3-f507d6d5a7ea.png)
+
+### Unit 6: Adding Visual Fidelity Through Lighting
+In Unit 6, we learned about lighting and post-processing. After, again, following the tutorial, I made changes to the lights in my scene, added new ones, as well as animated them with activation tracks.
+
+![screen (6)](https://user-images.githubusercontent.com/97399069/236873146-b2d300ef-4860-43ce-a235-27a8663e1dc3.png)
+![screen (7)](https://user-images.githubusercontent.com/97399069/236873152-63f457d6-6326-44f1-9dc1-eb66888a2691.png)
+
+### Unit 7: Effects and Final Render
+In this final Unit, we learned how to create particle effects and edit them with the VFX Graph. We also learned how to add sound to our scene. Following the example of the tutorial, I created my own particle effects. One in the alley and one in the street. Lastly, I added my own sound effects, which are meant to represent the sounds of the city. I made sure to adjust their volume, so that they are not too loud.
+
+![screen (8)](https://user-images.githubusercontent.com/97399069/236873619-4758229a-ce6d-43e0-bc3a-0ea6f8f7e3b3.png)
+![screen (11)](https://user-images.githubusercontent.com/97399069/236873771-dbe039ae-7e8c-4a16-95ee-ab1e860c3192.png)
 
 # 3rd Deliverable 
 
