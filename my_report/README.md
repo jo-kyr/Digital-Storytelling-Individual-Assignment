@@ -69,6 +69,8 @@ In this final Unit, we learned how to create particle effects and edit them with
 ![screen (8)](https://user-images.githubusercontent.com/97399069/236873619-4758229a-ce6d-43e0-bc3a-0ea6f8f7e3b3.png)
 ![screen (11)](https://user-images.githubusercontent.com/97399069/236873771-dbe039ae-7e8c-4a16-95ee-ab1e860c3192.png)
 
+[As the video files are too large, you can find them in the "dailies" folder]
+
 # 3rd Deliverable 
 
 
